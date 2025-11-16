@@ -5,7 +5,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=flat&logo=postgresql)](https://postgresql.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat&logo=tailwind-css)](https://tailwindcss.com)
 
-![hehe](![Dashboard](https://via.placeholder.com/800x400?text=Dashboard))
+![image alt](https://github.com/bruryansah/Full-Authentication/blob/419bcbc39189b36052bce8e0fa28b2af100357e6/hehe.png)
 
 
 Project ini adalah sistem autentikasi lengkap menggunakan **Laravel 12** yang mendukung:
