@@ -334,5 +334,10 @@ Jika project ini membantu Anda, berikan ⭐ di repository ini!
 Ada pertanyaan? Silakan buat [issue](https://github.com/username/Full-Authentication/issues) atau hubungi saya melalui email.
 
 ---
+## Catatan
+
+Readme ini 70% di buat oleh ai, bukan karena saya malas, padahal iya. 
+Jadi jangan lupa cek cek lagi
+
 
 **Happy Coding! 🚀**
