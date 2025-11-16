@@ -1,8 +1,3 @@
-login page
-https://github.com/bruryansah/Full-Authentication/blob/419bcbc39189b36052bce8e0fa28b2af100357e6/loginpage.png
-
-https://github.com/bruryansah/Full-Authentication/blob/419bcbc39189b36052bce8e0fa28b2af100357e6/hehe.png
-
 # Laravel Full Auth System with Social Login (Google + GitHub)
 
 [![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat&logo=laravel)](https://laravel.com)
