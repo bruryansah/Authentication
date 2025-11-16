@@ -5,7 +5,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=flat&logo=postgresql)](https://postgresql.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat&logo=tailwind-css)](https://tailwindcss.com)
 
-![image alt](https://github.com/bruryansah/Full-Authentication/blob/419bcbc39189b36052bce8e0fa28b2af100357e6/hehe.png)
+![image alt](https://github.com/bruryansah/Authentication/blob/0d2b45b57b06ce388ff28993dc084a84690c84f1/hehe.png)
 
 
 Project ini adalah sistem autentikasi lengkap menggunakan **Laravel 12** yang mendukung:
@@ -261,13 +261,13 @@ Route::middleware(['auth', 'verified'])->group(function () {
 ## 🎨 Screenshots
 
 ### Googl Login
-![image alt](https://github.com/bruryansah/Full-Authentication/blob/419bcbc39189b36052bce8e0fa28b2af100357e6/googlelogin.png)
+![image alt](https://github.com/bruryansah/Authentication/blob/0d2b45b57b06ce388ff28993dc084a84690c84f1/googlelogin.png)
 
 ### Github Login
-![image alt](https://github.com/bruryansah/Full-Authentication/blob/419bcbc39189b36052bce8e0fa28b2af100357e6/githublogin.png)
+![image alt](https://github.com/bruryansah/Authentication/blob/0d2b45b57b06ce388ff28993dc084a84690c84f1/githublogin.png)
 
 ### Database
-![image alt](https://github.com/bruryansah/Full-Authentication/blob/419bcbc39189b36052bce8e0fa28b2af100357e6/database.png)
+![image alt](https://github.com/bruryansah/Authentication/blob/0d2b45b57b06ce388ff28993dc084a84690c84f1/database.png)
 ---
 
 ## 🐛 Troubleshooting
