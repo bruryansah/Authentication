@@ -260,12 +260,14 @@ Route::middleware(['auth', 'verified'])->group(function () {
 
 ## 🎨 Screenshots
 
-### Login Page
-![Login Page](https://via.placeholder.com/800x400?text=Login+Page)
+### Googl Login
+![image alt](https://github.com/bruryansah/Full-Authentication/blob/419bcbc39189b36052bce8e0fa28b2af100357e6/googlelogin.png)
 
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard)
+### Github Login
+![image alt](https://github.com/bruryansah/Full-Authentication/blob/419bcbc39189b36052bce8e0fa28b2af100357e6/githublogin.png)
 
+### Database
+![image alt](https://github.com/bruryansah/Full-Authentication/blob/419bcbc39189b36052bce8e0fa28b2af100357e6/database.png)
 ---
 
 ## 🐛 Troubleshooting
